@@ -97,3 +97,39 @@ form {
     margin-top: 16px;
   }
 }
+
+.loginForm {
+  margin: auto;
+}
+
+.loginForm h1 {
+  text-align: center;
+}
+
+.usernameStyle {
+  border: none;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(243, 243, 243);
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.passwordStyle {
+  border: none;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(243, 243, 243);
+  text-align: center;
+  margin: 25px 0;
+  font-size: 1.5rem;
+}
+
+.buttonStyle {
+  border: none;
+  width: 75%;
+  height: 100px;
+  background-color: rgb(243, 243, 243);
+  margin: 0 auto;
+  font-size: 1.5rem;
+}
